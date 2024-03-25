@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Darshan Musale\OneDrive\Documents\Desktop\xworkz-project\Vendor-Management-Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3011623228.index
+968083507.index
+3543829435.index
+2566629801.index
+2161947941.index
